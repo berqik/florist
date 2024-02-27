@@ -1,0 +1,135 @@
+* {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+
+    body {
+        text-align: center;
+    }
+
+    <h1 style="background-color: rgb(255, 99, 71);">... </h1>h1 {
+
+        color: purple;
+        font: size 60px;
+
+
+    }
+
+    color: maroon;
+    margin-left: 40px;
+}
+
+#navbar {
+    background-color: salmon;
+    height: 20px;
+    display: flex;
+    justify-content: space-between;
+
+    .navbar-inner {
+        height: 200px;
+
+    }
+
+    .navbar {
+        height: 100px;
+    }
+
+    .navbar {}
+
+    .navbar-header {
+        width: 20px;
+    }
+
+    .navbar-brand {
+        width: 100px;
+        height: auto;
+    }
+
+    #navposition {
+        margin-left: 10px;
+        width: 50px;
+    }
+
+    .individualbtnposition {}
+
+}
+
+
+
+
+
+
+#brand {
+    padding-left: 70px;
+}
+
+#bouquet {
+    padding-right: 45px;
+}
+
+#links {
+    padding-right: 70px;
+}
+
+h1,
+{
+text-align: center;
+color: rgb(0, 0, 255)
+}
+
+img {
+    width: 45%;
+}
+
+
+p {
+
+    /* this changes the color and font size of the paragraph */
+    h1 {
+        color: red;
+        font-size: 70px;
+
+    }
+
+
+    /* this changes the color and font size  */
+    color: rgb(128, 0, 64);
+    font-size: 20px;
+}
+
+#image wrap {
+    background-color: salmon;
+    height: 20px;
+    display: flex;
+    justify-content: space-between;
+
+    .navbar-inner {
+        height: 200px;
+
+    }
+
+    .image wrap {
+        height: 100px;
+    }
+
+    .image wrap {}
+
+    .image wrap-header {
+        width: 20px;
+    }
+
+    .image wrap-brand {
+        width: 100px;
+        height: auto;
+    }
+
+    #navposition {
+        margin-left: 10px;
+        width: 50px;
+    }
+
+    .individualbtnposition {}
+
+}
+
+
+
